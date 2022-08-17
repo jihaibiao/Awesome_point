@@ -56,7 +56,7 @@ while i < 135:
     TARGET.append([numberFile.iloc[i]["X"] * w, numberFile.iloc[i]["Y"] * w, numberFile.iloc[i]["WIDTH"] * w, numberFile.iloc[i]["WIDTH"] * w])
     i += 1
 
-#TARGET = [[2*w,2*w,w,w],[8.6*w,2*w,2*w,2*w],[15.2*w,2*w,3*w,3*w],[2*w,6.5*w,w,w],[8.6*w,6.5*w,3*w,3*w],[15.2*w,6.5*w,2*w,2*w],[2*w,11*w,100,100],[8.6*w,11*w,w,w],[15.2*w,11*w,3*w,3*w]]
+
 
 
 
